@@ -1,0 +1,1 @@
+# thermosync-esp32
